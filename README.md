@@ -23,6 +23,8 @@ I'm a graduate student in economics, enthusiastic about coding and the explorati
 ### ⚡ Fun fact
 - 📚 Keen on books
 - 🏈 Love sports
+
+👀 might have something to look out for...
 <!---
 samdot07/samdot07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
