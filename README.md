@@ -9,16 +9,16 @@ I'm a graduate student in economics, enthusiastic about coding and the explorati
 
 ### 🌱 I’m currently interested in learning
 - 🤖 ML/DL
-- 🚀 Julia/C
+- 🚀 Julia/Cuda/C
 - 🖥️ Parallel Computing
 - ⛓️ Blockchain Technology
 - 🔐 Security
 - 🌍 Web Dev
 - 🧰 Ruby/Node/Swift
-- ✏️ Web Design/Figma
+- ✏️ UI/UX Design/Figma
 
-### 📫 How to reach me
-🔗 https://www.linkedin.com/in/samuele-moio-076a76268/
+### 📫 Let's connect
+- 🔗 https://www.linkedin.com/in/samuele-moio-076a76268/
 
 ### ⚡ Fun fact
 - 📚 Keen on books
