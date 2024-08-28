@@ -3,7 +3,7 @@ I like 🛠️ building projects ------> I like 🧠 new things
 #### 🔎 These are my interests
 - 🧑‍💻 Anything coding
 - 📚 Anything books
-- ✨ Anithing cool
+- ✨ anything cool
 - 🌍 Anything world [and outside]
 
 #### 🌱 This is what I want to learn ------> anything, pick your poison 🩸 
