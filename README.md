@@ -1,28 +1,14 @@
-# 👋 Hi, I’m @samdot07
+I like 🛠️ building projects ------> I like 🧠 new things
 
-I'm a graduate student in economics, enthusiastic about coding and the exploration of this charming world 
-
-### 🔎 I’m interested in
+#### 🔎 These are my interests
 - 🧑‍💻 Anything coding
-- 🛠️ Building projects
-- 🙏🏻 Learning new things
+- 📚 Anything books
+- ✨ Anithing cool
+- 🌍 Anything world [and outside]
 
-### 🌱 I’m currently interested in learning
-- 🤖 ML/DL
-- 🚀 Julia/Cuda/C
-- 🖥️ Parallel Computing
-- ⛓️ Blockchain Technology
-- 🔐 Security
-- 🌍 Web Dev
-- 🧰 Ruby/Node/Swift
-- ✏️ UI/UX Design/Figma
+#### 🌱 This is what I want to learn ------> anything, pick your poison 🩸 
 
-### 📫 Let's connect
-- 🔗 https://www.linkedin.com/in/samuele-moio-076a76268/
-
-### ⚡ Fun fact
-- 📚 Book enthusiast
-- 🏈 Love sports
+#### ⚡⚡⚡Fun fact⚡⚡⚡
 
 👀 Might have something to look out for...
 <!---
