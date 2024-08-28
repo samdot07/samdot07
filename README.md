@@ -21,7 +21,7 @@ I'm a graduate student in economics, enthusiastic about coding and the explorati
 - 🔗 https://www.linkedin.com/in/samuele-moio-076a76268/
 
 ### ⚡ Fun fact
-- 📚 Keen on books
+- 📚 Book enthusiast
 - 🏈 Love sports
 
 👀 Might have something to look out for...
